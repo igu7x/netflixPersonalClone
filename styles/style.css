@@ -45,6 +45,7 @@ select{
     background-repeat: no-repeat;
     background-size: 30px;
     background-position: left;
+    cursor: pointer;
 }
 
 #btn-enter{
@@ -55,6 +56,7 @@ select{
     color: white;
     border-radius: 4px;
     font-weight: 550;
+    cursor: pointer;
 }
 
 #main{
@@ -85,6 +87,7 @@ select{
     border-radius: 4px;
     font-weight: 550;
     margin-left: 7px;
+    cursor: pointer;
 }
 
 form{
