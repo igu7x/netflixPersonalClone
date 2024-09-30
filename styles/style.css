@@ -1,0 +1,156 @@
+@import url('https://fonts.cdnfonts.com/css/circular-std');
+
+body{
+    margin: 0%;
+    font-family: 'Circular Std', sans-serif;
+    background-color: #0b0e23;
+}
+
+#logo{
+    width: 150px;
+    margin-top: 35px;
+    margin-left: 350px;
+}
+
+#nav{
+    margin-top: 25px;
+    margin-right: 300px; 
+}
+
+#container{
+    background-image: linear-gradient(103.24deg, rgba(0, 8, 29, 0.9) 23.83%, rgba(0, 8, 29, 0.3) 96.1%), url(https://assets.nflxext.com/ffe/siteui/vlv3/47c2bc92-5a2a-4f33-8f91-4314e9e62ef1/web/BR-pt-20240916-TRIFECTA-perspective_c2bebe15-295b-4009-9a1c-893d9f501956_large.jpg);
+    background-size: cover;
+    height: cover;
+}
+
+#header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#btn-enter{
+    margin-left: 10px;
+}
+
+select{
+    padding: 7px 5px;
+    font-size: 15px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.534);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    background-image: url(../assets/images/Captura_de_Tela__3_-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: left;
+}
+
+#btn-enter{
+    padding: 9px 15px;
+    font-size: 14px;
+    background-color: #e50914;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    font-weight: 550;
+}
+
+#main{
+    color: white;
+    margin-top: 220px;
+    text-align: center;
+    
+}
+
+#title-main{
+    font-size: 64px;
+    font-weight: bold;
+}
+
+
+
+#querAssistir{
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+#btn-start{
+    padding: 16px 30px;
+    font-size: 25px;
+    background-color: #e50914;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    font-weight: 550;
+    margin-left: 7px;
+}
+
+form{
+    display: flex;
+    flex-direction: row;
+    margin-left: 600px;
+}
+
+#input{
+    height: 30px;
+    width: 500px; 
+    padding: 16px 20px;
+    background-color: rgba(27, 26, 26, 0.644);
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    border-color: rgba(255, 223, 223, 0.445);
+    border: 1px solid grey;
+}
+
+#box-container{
+    width: 95%;
+    height: 1100px;
+    margin: 0 auto;
+    margin-top: 120px;
+    background: linear-gradient(333.53deg, #000235 24.58%,#ff000d 50%, #010F42 100.55%);
+    border-radius: 8px;
+}
+
+.box-info{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    font-weight: bolder;
+    margin-left: 50px;
+}
+
+#tv{
+    margin-top: 50px;
+}
+
+.box-text{
+    margin-top: 180px;
+    margin-left: 200px;
+}
+
+.box-title{
+    font-size: 50px;
+    font-weight: 800;
+}
+
+#tablet{
+    margin-left: 50px;
+}
+
+.box-text2{
+    margin-top: 130px;
+    margin-left: 200px;
+}
+
+.box-info2{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    font-weight: bolder;
+    margin-left: 50px;
+    margin-top: 80px;
+}
