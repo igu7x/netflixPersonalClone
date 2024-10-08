@@ -98,7 +98,8 @@ select{
 form{
     display: flex;
     flex-direction: row;
-    margin-left: 600px;
+    justify-content: center;
+    align-items: center;
 }
 
 #input{
